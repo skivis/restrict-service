@@ -1,5 +1,5 @@
 enum34==1.1.6
-Flask==1.0
+Flask==2.3.2
 Flask-RESTful==0.3.6
 Flask-Injector==0.10.1
 Flask-Script==2.0.6
